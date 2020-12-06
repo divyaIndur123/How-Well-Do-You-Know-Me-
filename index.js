@@ -22,7 +22,7 @@ var questionList = [
     correctAnswer: "august"
   },
     {
-    question: " What am I insecure about?",
+    question: "What am I insecure about?",
     correctAnswer: "nothing"
   },
     {
